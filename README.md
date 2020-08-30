@@ -117,7 +117,7 @@ You are going to need:
 ### Setting up the project
 
 In the project directory run:
-
+ 
 ```
 nvm use
 npm install
